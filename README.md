@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/santiago-vargas-2a1375164/](https://www.linkedin.com/in/santiago-vargas-2a1375164/)
 
-- 💬 Ask me about **ReactJs|HTML|CSS|JavaScript**
+- 💬 Ask me about **ReactJs | HTML | CSS | JavaScript**
 
 - 📫 How to reach me **Santyvara05@gmail.com**
 
