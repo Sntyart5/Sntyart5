@@ -1,6 +1,6 @@
 <h1 align="center">Hola👋, Soy Santiago</h1>
 <h3 align="center">Frontend developer</h3>
-# 💫 About Me:
+# 💫 About Me:<br>
 ✅ I am a passionate software developer with strong expertise in modern web technologies and relational databases.<br><br>✅ My experience focuses on creating attractive and functional web interfaces using HTML, CSS, and JavaScript, as well as developing dynamic applications with ReactJS.
 
 
