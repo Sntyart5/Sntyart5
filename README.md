@@ -1,7 +1,7 @@
 <h1 align="center">Hola👋, Soy Santiago</h1>
 <h3 align="center">Frontend developer</h3>
 # 💫 About Me:<br>
-✅ I am a passionate software developer with strong expertise in modern web technologies and relational databases.<br><br>✅ My experience focuses on creating attractive and functional web interfaces using HTML, CSS, and JavaScript, as well as developing dynamic applications with ReactJS.
+✅ I am a front-end developer with 2 years of experience using technologies such as JavaScript, HTML, CSS, React, Node.js, MongoDB, MySQL, and Mongoose. My passion lies in creating innovative solutions that are not only visually appealing but also highly functional. As a professional, I distinguish myself through my commitment to quality, proactive problem-solving, and effective collaboration in multidisciplinary teams. I am excited to contribute my technical and creative expertise to a team dedicated to excellence in web development.
 
 
 ## 🌐 Socials:
